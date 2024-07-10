@@ -101,8 +101,11 @@ header .banner {
   .sect{
     max-width: 860px;
     margin: 61px 165px 0px 230px;
+  
 
   }
+  
+
   
   .section-content-in1{
     display: flex;
