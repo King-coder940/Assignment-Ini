@@ -100,7 +100,7 @@ header .banner {
  }
   .sect{
     max-width: 860px;
-    margin: 61px 165px 0px 230px;
+    margin: 61px 165px 20px 230px;
   
 
   }
@@ -157,10 +157,37 @@ header .banner {
     font-size: 16px;
     cursor: pointer;
     font-family:"Azeret Mono", monospace;
-
-
   }
   
+    
+    
+  
+  .card-container{
+    max-width: 1080px;
+    margin: 61px 130px 20px 200px;
+    display: flex;
+    justify-content: space-around;
+    gap: 250px;
+    margin:61px
+  }
+  .sect1{
+    max-width: max-content;
+    margin: 61px 100px 20px 160px;
+  }
+  .card1{
+    background-color:#f8cb9b;
+    padding: 10px;
+  }
+  .card2{
+    background-color:#e3d5ca;
+    padding: 10px;
+  }
+  .card3{
+    background-color:#ffe7a5;
+    padding: 10px;
+  }
+
+
     
   
 
