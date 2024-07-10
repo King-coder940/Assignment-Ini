@@ -170,6 +170,7 @@ header .banner {
     gap: 250px;
     margin:61px
   }
+  
   .sect1{
     margin: 61px 100px 20px 160px;
   }
@@ -186,9 +187,39 @@ header .banner {
     padding: 10px;
   }
 
-
+  .sect2{
+    text-align: center;
+    max-width: 860px;
+    margin: 61px 165px 20px 230px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2)), url(/assets/handshake.jpg);
+    background-size: 980px 250px;
+    border-radius: 10px;
+    background-repeat: no-repeat;
     
+  }
+  .tx{
+    padding-bottom: 10px;
+    padding-top: 10px
   
+  }
+.inner-title1{;
+  font-weight:700;
+  font-size: 26px;
+  color: #FFFFFF;
+  
+}
+.inner-description1{
+  font-weight: 400;
+  font-size: 16px;
+  color: #ffffff;
+  opacity: .7;
 
+}
+.btn{
+  display: flex;
+  justify-content:center;
+  gap: 16px;
+  padding-bottom: 20px;
+}
     
   
